@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
