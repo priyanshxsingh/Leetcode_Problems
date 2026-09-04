@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/priyanshxsingh/Leetcode_Problems/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
